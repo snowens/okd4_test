@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "first nodejs test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowens/okd_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowens/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/snowens/nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
